@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# NetBeans files
+nbproject/private/
+
+# Mac OS files
+.DS_Store
